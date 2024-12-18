@@ -1,2 +1,7 @@
 hi hello this is y 1st code 
 going to pull in git hub
+this add is adding in github after push 
+now we will see how to pull
+lets us discuess about how to connect or remote git hub to repo.
+git command git remote add origin paste url
+now im pasting oue token password    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
